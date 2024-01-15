@@ -17,7 +17,10 @@
 * [Social Engineering](cybersecurity/social-engineering.md)
 * [Off & Def Security](cybersecurity/off-and-def-security.md)
 * [KALI Linux OS](cybersecurity/kali-linux-os.md)
-* [CTF](cybersecurity/ctf.md)
+* [CTF](cybersecurity/ctf/README.md)
+  * [Mixed](cybersecurity/ctf/mixed/README.md)
+    * [#1 XDEV CTF](cybersecurity/ctf/mixed/1-xdev-ctf.md)
+    * [Writeup](cybersecurity/ctf/mixed/writeup.md)
 
 ## 👨💻 Competitive Programming
 
